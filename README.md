@@ -1,5 +1,5 @@
 # PuppyTouch
-A pixel-style game that uses handwriting recognition to eliminate falling animals for points.         
+* A pixel-style game that uses handwriting recognition to eliminate falling animals for points.         
 
 * This game was created by me when I first graduated from college.          
 It's a small 2D pixel-style game developed using the cocos2d-x engine.            
