@@ -1,4 +1,4 @@
-# KittyTouch
+# PuppyTouch
 A pixel-style game that uses handwriting recognition to eliminate falling animals for points.         
 
 This game was created by me when I first graduated from college.          
